@@ -32,3 +32,6 @@ p {
   text-decoration: line-through;
 }
 
+.indent {
+  text-indent: 20px;
+}
