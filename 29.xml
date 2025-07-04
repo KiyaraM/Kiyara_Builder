@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="main">The adventure of the Norwood builder</title><author>Arthur Conan Doyle</author></titleStmt>
+         <seriesStmt><title>DH Summerschool - Antwerp 2025</title></seriesStmt>
+         <sourceDesc>
+            <bibl><title type="main">The adventure of the Norwood builder</title><author>Arthur Conan Doyle</author><respStmt><resp>Writer</resp><name>Arthur Conan Doyle</name></respStmt><idno type="Transkribus">2892283</idno><note>Henry W. and Albert A. Berg Collection of English and American Literature, The New York Public Library. (1881 - 1910). Return of Sherlock Holmes, The: No. 2. The adventure of the Norwood builder. Holograph Retrieved from https://digitalcollections.nypl.org/items/95a54c30-732a-0136-b6bf-4dfacf2ed6b1</note></bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="5285" lry="7115" xml:id="facs_29">
+         <graphic url="0029_029_13r.jpeg" width="5285px" height="7115px"/>
+         <zone points="107,1260 5097,1260 5097,6776 107,6776" rendition="TextRegion" xml:id="facs_29_tr_1">
+            <zone points="110,1072 4945,1072 4945,1489 110,1489" rendition="Line" xml:id="facs_29_tr_1_tl_1"/>
+            <zone points="153,1422 815,1422 815,1716 153,1716" rendition="Line" xml:id="facs_29_tr_1_tl_2"/>
+            <zone points="987,1673 4596,1673 4596,2034 987,2034" rendition="Line" xml:id="facs_29_tr_1_tl_3"/>
+            <zone points="882,1991 4639,1991 4639,2390 882,2390" rendition="Line" xml:id="facs_29_tr_1_tl_4"/>
+            <zone points="931,2316 2506,2316 2506,2580 931,2580" rendition="Line" xml:id="facs_29_tr_1_tl_5"/>
+            <zone points="913,2549 5031,2549 5031,2960 913,2960" rendition="Line" xml:id="facs_29_tr_1_tl_6"/>
+            <zone points="74,2825 570,2825 570,3002 74,3002" rendition="Line" xml:id="facs_29_tr_1_tl_7"/>
+            <zone points="129,2923 2126,2923 2126,3223 129,3223" rendition="Line" xml:id="facs_29_tr_1_tl_8"/>
+            <zone points="907,3174 5025,3174 5025,3603 907,3603" rendition="Line" xml:id="facs_29_tr_1_tl_9"/>
+            <zone points="159,3505 5086,3505 5086,3836 159,3836" rendition="Line" xml:id="facs_29_tr_1_tl_10"/>
+            <zone points="987,3805 4890,3805 4890,4136 987,4136" rendition="Line" xml:id="facs_29_tr_1_tl_11"/>
+            <zone points="141,4075 4902,4075 4902,4473 141,4473" rendition="Line" xml:id="facs_29_tr_1_tl_12"/>
+            <zone points="165,4393 4479,4393 4479,4767 165,4767" rendition="Line" xml:id="facs_29_tr_1_tl_13"/>
+            <zone points="153,4718 4516,4718 4516,5049 153,5049" rendition="Line" xml:id="facs_29_tr_1_tl_14"/>
+            <zone points="1042,4957 4976,4957 4976,5392 1042,5392" rendition="Line" xml:id="facs_29_tr_1_tl_15"/>
+            <zone points="153,5245 1838,5245 1838,5631 153,5631" rendition="Line" xml:id="facs_29_tr_1_tl_16"/>
+            <zone points="1078,5594 4755,5594 4755,5950 1078,5950" rendition="Line" xml:id="facs_29_tr_1_tl_17"/>
+            <zone points="135,5815 515,5815 515,5999 135,5999" rendition="Line" xml:id="facs_29_tr_1_tl_18"/>
+            <zone points="141,5846 2929,5846 2929,6238 141,6238" rendition="Line" xml:id="facs_29_tr_1_tl_19"/>
+            <zone points="1036,6146 4884,6146 4884,6581 1036,6581" rendition="Line" xml:id="facs_29_tr_1_tl_20"/>
+            <zone points="172,6471 5037,6471 5037,6863 172,6863" rendition="Line" xml:id="facs_29_tr_1_tl_21"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_29" n="29" xml:id="img_0029"/>
+            <ab facs="#facs_29_tr_1" type="">
+               <l facs="#facs_29_tr_1_tl_1" n="N001">shoulder I caupt a glimpse of one or two unformed policemen</l>
+               <l facs="#facs_29_tr_1_tl_2" n="N002">outside.</l>
+               <l facs="#facs_29_tr_1_tl_3" n="N003">Mr John Hector McFarlane? said Lestrade.</l>
+               <l facs="#facs_29_tr_1_tl_4" n="N004">Our unfortunate client rose with a ghastly face.</l>
+               <l facs="#facs_29_tr_1_tl_5" n="N005">A<unclear>c</unclear>eds <unclear>Scacrstc</unclear>.</l>
+               <l facs="#facs_29_tr_1_tl_6" n="N006"><unclear>deeed</unclear> arrest you for the wilful munder of Mr Jonas</l>
+               <l facs="#facs_29_tr_1_tl_7" n="N007">Oldaere</l>
+               <l facs="#facs_29_tr_1_tl_8" n="N008">Coper of Lower Norwood</l>
+               <l facs="#facs_29_tr_1_tl_9" n="N009">McFarlanc turned to us with a gesture of despair,</l>
+               <l facs="#facs_29_tr_1_tl_10" n="N010">and sank into his chair once more like a man who is crushed.</l>
+               <l facs="#facs_29_tr_1_tl_11" n="N011">"One moment, Lestrade said Holmeo "Half an</l>
+               <l facs="#facs_29_tr_1_tl_12" n="N012">hour more or less can make no difference to you, and <blackening>is</blackening> the</l>
+               <l facs="#facs_29_tr_1_tl_13" n="N013">gentleman was about to give us an account of this very</l>
+               <l facs="#facs_29_tr_1_tl_14" n="N014">interesting affair which might aid us in clearing it up</l>
+               <l facs="#facs_29_tr_1_tl_15" n="N015">I think there will be no difficulty in clearing it up</l>
+               <l facs="#facs_29_tr_1_tl_16" n="N016">said Lestrade grimly.</l>
+               <l facs="#facs_29_tr_1_tl_17" n="N017">none the less with your permission I should be</l>
+               <l facs="#facs_29_tr_1_tl_18" n="N018">much</l>
+               <l facs="#facs_29_tr_1_tl_19" n="N019"><blackening>most</blackening> interested to hear his account</l>
+               <l facs="#facs_29_tr_1_tl_20" n="N020">Well, Mr Holmes, it is difficult for me to refuse</l>
+               <l facs="#facs_29_tr_1_tl_21" n="N021">you anything for you have been of use to the force once or twice</l>
+            </ab></div>
+      </body>
+   </text>
+</TEI>
